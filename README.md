@@ -57,14 +57,18 @@ Specialized in engineering scalable, deterministic test automation architectures
 
 ---
 
-### 🏆 Recognitions & Proven Impact
+### 🏆 Awards & Recognition
 * 🥇 **Highest Bug Hunter Award** — GameMano Pvt. Ltd. (Recognized for exceptional exploratory defect detection).
 * ⭐ **Employee of the Month (2×)** — KhiladiAdda (Recognized for outstanding quality advocacy and release delivery).
-* 🎓 **Master of Computer Application (MCA)** — Lovely Professional University
-* 🎓 **Bachelor of Computer Application (BCA)** — Galgotias University
 
 ---
 
-### 📈 Daily Engineering Standards
-* **Deterministic Code:** Zero flaky tests — robust auto-waits, locator strategies, and isolated test contexts.
-* **Active Commits:** Daily progress logged directly to GitHub with verifiable commits, automated test runs, and continuous delivery artifacts.
+### 🎓 Education
+* **Master of Computer Application (MCA)** — Lovely Professional University (2022 – 2024)
+* **Bachelor of Computer Application (BCA)** — Galgotias University (2018 – 2021)
+
+---
+
+### 💡 Quality Engineering Philosophy
+* **Deterministic Test Design:** Preventing test flakiness through Playwright's auto-waiting, web-first assertions, isolated browser contexts, and deep trace debugging.
+* **Continuous Feedback:** Automated CI/CD pipelines that provide fast, actionable failure feedback directly on pull requests.
