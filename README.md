@@ -58,7 +58,7 @@ This GitHub profile serves as my **live technical portfolio**, documenting worki
 ### 🏆 Recognitions & Achievements
 * 🥇 **Highest Bug Hunter Award** — GameMano Pvt. Ltd. (Superior defect detection rate during exploratory testing sprints).
 * ⭐ **Employee of the Month (2×)** — KhiladiAdda (Exceptional quality contribution & cross-team collaboration).
-* 🎓 **MCA (CGPA: 7.31)** — Lovely Professional University | **BCA (CGPA: 8.31)** — Galgotias University.
+* 🎓 **Master of Computer Application (MCA)** — Lovely Professional University | **Bachelor of Computer Application (BCA)** — Galgotias University
 
 ---
 
