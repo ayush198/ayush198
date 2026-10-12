@@ -35,10 +35,10 @@ Specialized in engineering scalable, deterministic test automation architectures
 
 ---
 
-### 🚀 Production-Grade Portfolio Frameworks
+### 🚀 Featured Engineering & Portfolio Frameworks (Active Roadmap)
 
 #### 1. 🏗️ [Enterprise Playwright E2E & API Test Automation Framework](https://github.com/ayush198/ai-sdet-career-project)
-> *Scalable, enterprise-grade test automation suite built with Playwright, TypeScript, and Page Object Model.*
+> *Scalable test automation suite built with Playwright, TypeScript, and Page Object Model (In Active Development — Milestone 1 Target).*
 * **Architectural Design:** Clean separation of concerns with Page Object Model (POM), custom business fixtures, and centralized test configuration.
 * **Hybrid Testing Capabilities:** Comprehensive UI regression + headless REST API testing validating status codes, response payloads, and database synchronization.
 * **Responsive & Mobile Emulation:** Multi-viewport matrix testing validating responsive web and mobile web layouts (simulating iPhone and Pixel devices).
